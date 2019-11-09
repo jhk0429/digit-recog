@@ -10,3 +10,4 @@ Digit Recognizer: https://www.kaggle.com/c/digit-recognizer
 
 Generative Dog Images: https://www.kaggle.com/c/generative-dog-images
 
+Code last revised on Aug.2019
